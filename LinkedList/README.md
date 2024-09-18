@@ -1,0 +1,9 @@
+Nathan Tran (ntran48@ucsc.edu)
+
+Based on the timing experiment, I observed the insertion sort to be faster than the selection sort by 5.003 ms. The time for insertion sort was 30.608 ms, while the time of the selection sort was 35.611 ms. The outcome I got was what I expected because the time complexity of insertion sort in the best case is O(n), while it is o(n^2) for selection sort. Insertion sort is also more efficient when it comes to partially sorted arrays, whereas selection sort performs better then the array is highly unsorted.
+
+This lab mainly consists of doubly linked lists and using it to create two sorting algorithms: insertion sort and selection sort. Aspects of the lab I thought were important was understanding the concepts or doubly linked lists and how the sorting algorithms work. Pointers were also heavily used in my program.
+
+When approaching this lab, I first read the whole lab manual before downloading or making any files. After that, I went to the internet to learn what a linked list was before learning about a doubly linked list. When I completed the linked list functions as well as the test, I then converted to learning about the two sorting methods. I thought the TA's were a really great help when it came to explaining concepts and debugging, but I didn't collaborate with anyone else.
+
+After about 35 hours of learning, programming, and debugging, I have completed the assignment. I believe that this lab was worthwhile, however, I did enjoy the other labs more. I think the one thing that made me not like it as much is that the end result was just sorting algorithms. I would say that the hardest part was getting the sorting algorithm to work the way I wanted it to. I also felt that the points distribution seems appropriate. Finally, examples in class, especially about pointers, did help me with this lab.
