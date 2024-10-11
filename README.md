@@ -2,6 +2,8 @@
 
 Calculator: A text-based calculator capable of performing basic arithmetic operations
 
+LinkedList: An implementation of doubly linked lists
+
 Matrix Library: A set of functions designed for matrix operations, originally developed to interface with the UNO32 via CoolTerm but also compatible with Linux environments
 
 RPN Calculator: A text-based calculator utilizing stack-based computation to evaluate expressions in Reverse Polish Notation (RPN)
