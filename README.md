@@ -1,5 +1,7 @@
 # C Projects
 
+Hardware used: Uno32 & Pickit3
+
 Calculator: A text-based calculator capable of performing basic arithmetic operations
 
 LinkedList: An implementation of doubly linked lists
